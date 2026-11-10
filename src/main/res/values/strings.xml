@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Truth Watch India</string>
+    <string name="breaking_news">ब्रेकिंग न्यूज़</string>
+    <string name="home">होम</string>
+    <string name="search">खोजें</string>
+    <string name="bookmarks">बुकमार्क</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="contact_us">संपर्क करें</string>
+    <string name="our_team">हमारी टीम</string>
+    <string name="share">शेयर करें</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="error_loading">लोड करने में त्रुटि</string>
+    <string name="retry">पुनः प्रयास करें</string>
+    <string name="no_bookmarks">कोई बुकमार्क नहीं</string>
+    <string name="read_more">और पढ़ें</string>
+    <string name="send">भेजें</string>
+    <string name="your_name">आपका नाम</string>
+    <string name="your_email">आपका ईमेल</string>
+    <string name="subject">विषय</string>
+    <string name="message">संदेश</string>
+    <string name="no_internet">इंटरनेट कनेक्शन नहीं है</string>
+</resources>

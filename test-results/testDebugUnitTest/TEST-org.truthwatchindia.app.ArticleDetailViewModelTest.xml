@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.truthwatchindia.app.ArticleDetailViewModelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-07T18:54:10.664Z" hostname="TRIPATHIs-MacBook-Air.local" time="0.143">
+  <properties/>
+  <testcase name="testToggleBookmarkUpdatesState" classname="org.truthwatchindia.app.ArticleDetailViewModelTest" time="0.135"/>
+  <testcase name="testLoadArticleSuccess" classname="org.truthwatchindia.app.ArticleDetailViewModelTest" time="0.002"/>
+  <testcase name="testLoadArticleOfflineFallbackWhenNetworkFails" classname="org.truthwatchindia.app.ArticleDetailViewModelTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

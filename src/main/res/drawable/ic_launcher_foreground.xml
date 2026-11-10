@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#970347"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <!-- T letter for Truth Watch -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,30L72,30L72,38L58,38L58,78L50,78L50,38L36,38Z" />
+    <!-- W accent mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,80L40,68L44,76L48,68L52,76L56,68L60,80Z"
+        android:strokeWidth="0" />
+</vector>

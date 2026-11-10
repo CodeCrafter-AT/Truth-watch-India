@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.truthwatchindia.app.WpModelsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-07T18:54:10.838Z" hostname="TRIPATHIs-MacBook-Air.local" time="0.001">
+  <properties/>
+  <testcase name="testFormattedDateConvertsToHindiFormat" classname="org.truthwatchindia.app.WpModelsTest" time="0.0"/>
+  <testcase name="testEmbeddedExtractionForAuthorMediaCategory" classname="org.truthwatchindia.app.WpModelsTest" time="0.0"/>
+  <testcase name="testCleanHtmlUnescapesEntitiesAndStripsTags" classname="org.truthwatchindia.app.WpModelsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

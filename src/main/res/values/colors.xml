@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_crimson">#970347</color>
+    <color name="dark_charcoal">#2D2D2D</color>
+    <color name="body_text">#313131</color>
+    <color name="metadata_gray">#6B7280</color>
+    <color name="canvas_white">#FFFFFF</color>
+    <color name="surface_light">#F9FAFB</color>
+    <color name="divider_stroke">#E5E7EB</color>
+    <color name="accent_blue">#0693E3</color>
+</resources>
